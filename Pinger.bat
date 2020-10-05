@@ -1,4 +1,4 @@
-:: CC0 LICENSED CODE: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+:: CC0 1.0 Universal LICENSED CODE: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 :: AUTHOR: https://github.com/FivosM
 
 @MODE CON COLS=28 LINES=3
